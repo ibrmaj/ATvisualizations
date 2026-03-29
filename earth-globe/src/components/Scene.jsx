@@ -55,7 +55,7 @@ export default function Scene({ points, colorMap, visibleGroups, searchId, onHov
         zoomSpeed={0.8}
         rotateSpeed={0.5}
         autoRotate={true}  // ← stops when a point is hovered
-        autoRotateSpeed={2.0}
+        autoRotateSpeed={4.0}
       />
     </Canvas>
   )
