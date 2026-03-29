@@ -15,7 +15,8 @@ const OKABE_ITO = [
     '#000000', // black
   ]
   
-  const TWO_GROUP_COLORS = ['#E69F00', '#56B4E9']
+  
+  const TWO_GROUP_COLORS = ['#0072B2', '#D55E00']
   
   /**
    * Build a stable { groupName → hexColor } map.
